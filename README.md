@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
