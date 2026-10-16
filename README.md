@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Harshgangam/Leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshgangam/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harshgangam/Leetcode-journey/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harshgangam/Leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
