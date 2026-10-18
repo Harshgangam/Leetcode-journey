@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshgangam/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshgangam/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
@@ -50,4 +52,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harshgangam/Leetcode-journey/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
