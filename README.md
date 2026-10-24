@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshgangam/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshgangam/Leetcode-journey/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
