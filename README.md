@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshgangam/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Harshgangam/Leetcode-journey/tree/master/2549-count-distinct-numbers-on-board) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshgangam/Leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshgangam/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Harshgangam/Leetcode-journey/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Harshgangam/Leetcode-journey/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harshgangam/Leetcode-journey/tree/master/0509-fibonacci-number) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Harshgangam/Leetcode-journey/tree/master/2549-count-distinct-numbers-on-board) |
 ## Recursion
 |  |
 | ------- |
