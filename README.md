@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Harshgangam/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Harshgangam/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Harshgangam/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Harshgangam/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshgangam/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Harshgangam/Leetcode-journey/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -104,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harshgangam/Leetcode-journey/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Harshgangam/Leetcode-journey/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Harshgangam/Leetcode-journey/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Harshgangam/Leetcode-journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
