@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Harshgangam/Leetcode-journey/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Harshgangam/Leetcode-journey/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Harshgangam/Leetcode-journey/tree/master/0054-spiral-matrix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Harshgangam/Leetcode-journey/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Harshgangam/Leetcode-journey/tree/master/0043-multiply-strings) |
 | [0509-fibonacci-number](https://github.com/Harshgangam/Leetcode-journey/tree/master/0509-fibonacci-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Harshgangam/Leetcode-journey/tree/master/2549-count-distinct-numbers-on-board) |
 ## Recursion
